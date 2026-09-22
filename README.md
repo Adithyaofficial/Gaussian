@@ -1,5 +1,18 @@
 # Gaussian Elimination
 
+## AIM:
+To write a program to find the solution of a matrix using Gaussian Elimination.
+
+## Equipments Required:
+1. Hardware – PCs
+2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
+## Algorithm
+
+1.Input matrix dimensions and initialize augmented matrix and solution vector.
+
+2.Populate the augmented matrix with user inputs.
+
 3.Perform Gaussian elimination to reduce the matrix to upper 
 triangular form, ensuring no division by zero.
 
